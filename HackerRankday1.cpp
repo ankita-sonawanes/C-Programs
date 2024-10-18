@@ -20,7 +20,7 @@ int main() {
     getline(cin,p);
     // Print the sum of both integer variables on a new line.
     cout<<x+i<<endl;
-    cout<<fixed<<setpricision(1)<<y+d<<endl;
+    cout<<fixed<< setpricision (1)<<y+d<<endl;
     cout<<s+p;
     
     
