@@ -21,6 +21,9 @@
 //     prime(11);
 //     return 0;
 // }
+// prime number:11
+
+
 
 //print all prime number
 
@@ -57,5 +60,10 @@ int main() {
     
     return 0;
 }
-
+// Enter a number: 11
+// 2 is a prime number.
+// 3 is a prime number.
+// 5 is a prime number.
+// 7 is a prime number.
+// 11 is a prime number.
     
